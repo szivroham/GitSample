@@ -10,6 +10,7 @@ namespace Sample1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("The first modification of the main (1)");
         }
     }
 }
