@@ -19,5 +19,17 @@ namespace Sample1
         {
             return left_operand / right_operand;
         }
+
+
+        public double DivB(double left_operand,double right_operand)
+        {
+            return left_operand / right_operand;
+        }
+
+        public float DivD(float left_operand, float right_operand)
+        {
+            return left_operand / right_operand;
+        }
+
     }
 }
