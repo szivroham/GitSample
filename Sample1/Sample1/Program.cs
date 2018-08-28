@@ -11,6 +11,8 @@ namespace Sample1
         static void Main(string[] args)
         {
             Console.WriteLine("The first modification of the main (1)");
+            Console.WriteLine("The Second modification of the main (2)");
+
         }
     }
 }
