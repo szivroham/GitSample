@@ -13,5 +13,11 @@ namespace Sample1
         {
             return left_operand + right_operand;
         }
+
+
+        public int Div(int left_operand,int right_operand)
+        {
+            return left_operand / right_operand;
+        }
     }
 }
