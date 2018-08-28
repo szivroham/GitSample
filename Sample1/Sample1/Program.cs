@@ -12,6 +12,8 @@ namespace Sample1
         {
             Console.WriteLine("The first modification of the main (1)");
             Console.WriteLine("The Second modification of the main (2)");
+            Console.WriteLine("The Third modification of the main (3)");
+
 
         }
     }
