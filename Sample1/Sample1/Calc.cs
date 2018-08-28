@@ -8,5 +8,10 @@ namespace Sample1
 {
     class Calc
     {
+
+        public int Add(int left_operand, int right_operand)
+        {
+            return left_operand + right_operand;
+        }
     }
 }
